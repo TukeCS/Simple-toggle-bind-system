@@ -26,7 +26,7 @@ int main(){
 
 	std::cout << "activated? : " << asd::activated[0];
 
-;	while (true){
+	while (true){
 
 		if (GetAsyncKeyState(asd::bind_ascii)){
 
