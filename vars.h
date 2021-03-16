@@ -2,8 +2,8 @@
 
 namespace asd{
 
-	inline int bind_ascii = NULL;
-	inline bool toggled = NULL;
+	inline int bind_ascii;
+	inline bool toggled;
 
 	inline char const* activated[] = { "[ON]", "[OFF]" };
 
